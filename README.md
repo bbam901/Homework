@@ -13,7 +13,7 @@
 ![화면전환](https://user-images.githubusercontent.com/79883555/110408025-4424a980-80c8-11eb-9269-ba4caf1990b1.PNG)
 
 # In-Class Homework week2-day2 #1 Practice committing
-first committing과 first modification
+first committing과 first modification<br>
 안드로이드 스튜디오 프로젝트를 깃허브에 공유
 ![저장소](https://user-images.githubusercontent.com/79883555/110599891-b11e6900-81c6-11eb-9998-96e537eb056f.PNG)
 
