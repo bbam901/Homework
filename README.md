@@ -5,7 +5,7 @@
 201921063 서범규는 조직적이고 계획적이며 관리적인 사람이다.
 
 # Homework
-안드로이드 구동
+안드로이드 구동 
 ![헬로월드](https://user-images.githubusercontent.com/79883555/110233303-83d38000-7f66-11eb-985b-33d97193d2a5.png)
 
 # In-Class Homework week2-day1 #1
