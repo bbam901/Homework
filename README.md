@@ -14,4 +14,8 @@
 
 # In-Class Homework week2-day2 #1 Practice committing
 first committing과 first modification
+안드로이드 스튜디오 프로젝트를 깃허브에 공유
+![저장소](https://user-images.githubusercontent.com/79883555/110599891-b11e6900-81c6-11eb-9998-96e537eb056f.PNG)
 
+string.xml 수정 확인
+![xmledit](https://user-images.githubusercontent.com/79883555/110600051-da3ef980-81c6-11eb-8829-aa309f324652.PNG)
