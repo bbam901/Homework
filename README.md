@@ -11,3 +11,7 @@
 # In-Class Homework week2-day1 #1
 화면 출력 변경과제
 ![화면전환](https://user-images.githubusercontent.com/79883555/110408025-4424a980-80c8-11eb-9269-ba4caf1990b1.PNG)
+
+# In-Class Homework week2-day2 #1 Practice committing
+first committing과 first modification
+
