@@ -24,3 +24,8 @@ string.xml 수정 확인
 onCreate, onStart, onResume 함수
 ![csr](https://user-images.githubusercontent.com/79883555/111300672-b121db80-8694-11eb-9ebf-ee32499f7a0e.PNG)
 
+onPause, onStop, onDestroy함수
+![psd](https://user-images.githubusercontent.com/79883555/111301511-a7e53e80-8695-11eb-8da1-eb8bdb15fc11.PNG)
+
+onRestart함수
+![onRestart](https://user-images.githubusercontent.com/79883555/111301719-e11dae80-8695-11eb-85bd-92cee5187579.PNG)
