@@ -21,11 +21,25 @@ string.xml 수정 확인
 ![xmledit](https://user-images.githubusercontent.com/79883555/110600051-da3ef980-81c6-11eb-8829-aa309f324652.PNG)
 
 # In-Class Homework week3-day1 #1
-onCreate, onStart, onResume 함수
-![csr](https://user-images.githubusercontent.com/79883555/111300672-b121db80-8694-11eb-9ebf-ee32499f7a0e.PNG)
+어플리케이션을 실행했을 때 호출되는 함수
+![start](https://user-images.githubusercontent.com/79883555/111312454-a706d980-86a2-11eb-9098-103fd5b8ee86.PNG)
 
-onPause, onStop, onDestroy함수
-![psd](https://user-images.githubusercontent.com/79883555/111301511-a7e53e80-8695-11eb-8da1-eb8bdb15fc11.PNG)
+homekey를 눌렀을 때 호출되는 함수
+![home](https://user-images.githubusercontent.com/79883555/111312515-b5ed8c00-86a2-11eb-9532-37c35b1c6553.PNG)
 
-onRestart함수
-![onRestart](https://user-images.githubusercontent.com/79883555/111301719-e11dae80-8695-11eb-85bd-92cee5187579.PNG)
+어플리케이션 재실행 시 호출되는 함수
+![restart](https://user-images.githubusercontent.com/79883555/111312580-c69e0200-86a2-11eb-832f-9d9c2e8683b5.PNG)
+
+backkey를 눌렀을 때 호출되는 함수
+![back](https://user-images.githubusercontent.com/79883555/111312617-d3225a80-86a2-11eb-8d21-5a9aa5d07d17.PNG)
+
+다른 어플리케이션 실행시 호출되는 함수
+![sell](https://user-images.githubusercontent.com/79883555/111312654-dc132c00-86a2-11eb-82fe-068de10d52e1.PNG)
+
+power off 클릭 시 호출되는 함수
+![off](https://user-images.githubusercontent.com/79883555/111312694-e8978480-86a2-11eb-832c-af094523824a.PNG)
+
+power on 클릭 시 호출되는 함수
+![on](https://user-images.githubusercontent.com/79883555/111312747-f3521980-86a2-11eb-9117-ccb0d3081401.PNG)
+
+
