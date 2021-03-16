@@ -19,3 +19,8 @@ first committing과 first modification<br>
 
 string.xml 수정 확인
 ![xmledit](https://user-images.githubusercontent.com/79883555/110600051-da3ef980-81c6-11eb-8829-aa309f324652.PNG)
+
+# In-Class Homework week3-day1 #1
+onCreate, onStart, onResume 함수
+![csr](https://user-images.githubusercontent.com/79883555/111300672-b121db80-8694-11eb-9ebf-ee32499f7a0e.PNG)
+
