@@ -21,6 +21,8 @@ string.xml 수정 확인
 ![xmledit](https://user-images.githubusercontent.com/79883555/110600051-da3ef980-81c6-11eb-8829-aa309f324652.PNG)
 
 # In-Class Homework week3-day1 #1
+유튜브 링크: https://youtu.be/uwbO7X1YY-c
+
 어플리케이션을 실행했을 때 호출되는 함수(onCreate, onStart, onResume)
 ![start](https://user-images.githubusercontent.com/79883555/111312454-a706d980-86a2-11eb-9098-103fd5b8ee86.PNG)
 
